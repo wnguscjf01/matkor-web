@@ -1,0 +1,4 @@
+#combination-table{
+    display: flex;
+    flex-direction: column;
+}
